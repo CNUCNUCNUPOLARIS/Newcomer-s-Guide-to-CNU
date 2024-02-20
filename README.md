@@ -1,9 +1,9 @@
-# HIT-萌新灯塔计划
+# CNU北极星计划Polaris
 
-![GitHub License](https://img.shields.io/github/license/turturturturtur/Newcomer-s-Guide-to-HIT)
-[![GitHub issues](https://img.shields.io/github/issues/turturturturtur/Newcomer-s-Guide-to-HIT?color=blue)
-](https://github.com/turturturturtur/Newcomer-s-Guide-to-HIT/issues)
-[![Stars](https://img.shields.io/github/stars/turturturturtur/Newcomer-s-Guide-to-HIT?label=Stars)](https://img.shields.io/github/stars/turturturturtur/Newcomer-s-Guide-to-HIT?label=Stars)
+![GitHub License](https://img.shields.io/github/license/CNUCNUCNUPOLARIS/Newcomer-s-Guide-to-CNU)
+[![GitHub issues](https://img.shields.io/github/issues/CNUCNUCNUPOLARIS/Newcomer-s-Guide-to-CNU?color=blue)
+](https://github.com/CNUCNUCNUPOLARIS/Newcomer-s-Guide-to-CNU/issues)
+[![Stars](https://img.shields.io/github/stars/CNUCNUCNUPOLARIS/Newcomer-s-Guide-to-CNU?label=Stars)](https://img.shields.io/github/stars/turturturturtur/Newcomer-s-Guide-to-HIT?label=Stars)
 
 本人受到《上交大生存指南》《cs自学指南》的感召，决定创作这样一个平台，来帮助各位工大学子。
 
